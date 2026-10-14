@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:4F46E5,100:06B6D4&text=MOHAMMED%20KHALANDAR&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%26%20FULL-STACK&descAlignY=59&descSize=16" width="100%" />
+# 👋 Mohammed Khalandar
+
+### Software Developer | Backend & Full-Stack Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;C%23+%7C+.NET+%7C+ASP.NET+Core;React+%7C+TypeScript+%7C+MySQL;Docker+%7C+JWT+%7C+Clean+Architecture;Building+useful+software%2C+one+commit+at+a+time" alt="Typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mohammedkhalandar&label=PROFILE%20VIEWS&color=4F46E5&style=for-the-badge" alt="Profile views" />
+[![GitHub profile](https://img.shields.io/badge/GitHub-Mohammedkhalandar-181717?style=for-the-badge&logo=github)](https://github.com/Mohammedkhalandar)
 
 </div>
 
