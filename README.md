@@ -156,7 +156,7 @@ A sample food delivery application demonstrating a multi-project ASP.NET Core st
 </a>
 
 <!-- Replace the link below with your actual LinkedIn profile URL. -->
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/mohammad-khalandar-3550122a6/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
